@@ -140,7 +140,7 @@ console.log(delete me.skills)
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
-const empty =  [1,2,3,4,5,6,7,8,9,0]
+const empty =  [1,2,3,4,5,6,7,8,9,10]
 console.log(empty)
 
 /* ESERCIZIO 15
@@ -148,3 +148,4 @@ console.log(empty)
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+empty.splice(9,1,100 )
